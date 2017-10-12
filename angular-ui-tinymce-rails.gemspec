@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.description = "See more on https://github.com/angular-ui/ui-tinymce"
   s.license     = "MIT"
 
-  s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
+  s.files = Dir["{app,config,db,lib,node_modules}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
 
   s.add_dependency "rails", "~> 5.1.4"
 
