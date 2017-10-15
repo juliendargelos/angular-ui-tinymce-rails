@@ -1,4 +1,6 @@
 # AngularUi TinyMCE Rails
+[![Maintainability](https://api.codeclimate.com/v1/badges/e4e8a4ecc4302c50a7e2/maintainability)](https://codeclimate.com/github/juliendargelos/angular-ui-tinymce-rails/maintainability)
+
 Rails wrapper for [TinyMCE AngularUI wrapper](https://github.com/angular-ui/ui-tinymce).
 
 ## Usage
